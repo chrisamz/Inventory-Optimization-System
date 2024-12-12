@@ -212,8 +212,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **Author:** Your Name
-- **GitHub:** [@yourusername](https://github.com/yourusername)
-- **Email:** yourname@example.com
 
 Feel free to reach out with any questions, suggestions, or feedback!
